@@ -12,9 +12,13 @@
 Acessar: 
 <a href="https://www.instagram.com/lecfranca.ti/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
-</a>&nbsp
+</a>
 <a href="https://www.linkedin.com/in/luis-eduardo-7481381a2">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+</a>
+<a href="https://lf-technology-information.netlify.app/">
+<img src="https://github.com/user-attachments/assets/f48c5e3c-0e20-4787-ad0a-6e84b5b268db"/>
 </a>
 
     
